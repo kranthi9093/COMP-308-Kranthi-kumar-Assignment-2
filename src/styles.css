@@ -1,0 +1,11 @@
+
+
+body {
+  background-image: url("../../client/src/assets/images/bg2.png");
+}
+
+h1 {
+  color:red;
+  text-transform: uppercase;
+
+}
